@@ -19,7 +19,7 @@ A responsive and dynamic News Application built using **React.js** that fetches 
 
 - **Frontend:** React.js
 - **Language:** JavaScript (ES6+)
-- **Styling:** CSS / Bootstrap
+- **Styling:** CSS 
 - **API:** News API (REST)
 - **Routing:** React Router
 
